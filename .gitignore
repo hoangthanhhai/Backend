@@ -5,3 +5,8 @@
 /.vs
 /APIs/obj
 /APIs/bin/Debug/net8.0
+/Infrastructure/bin/Debug/net8.0
+/Infrastructure/obj
+/Models/obj
+/ApplicationCore/bin/Debug/net8.0
+/ApplicationCore/obj

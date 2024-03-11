@@ -1,0 +1,5 @@
+1. Common web application architectures: https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures
+
+
+
+
