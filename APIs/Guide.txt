@@ -1,4 +1,8 @@
 1. Common web application architectures: https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures
+2. Add Repository Pattern:
+	2.1 Create IRepository, Repository and implement CRUD method
+	2.2 Create connection string in appsettings.json and add to DBContext in Program.cs
+	2.3 
 
 
 
