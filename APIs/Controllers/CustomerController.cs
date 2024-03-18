@@ -1,6 +1,5 @@
 
 using APIs.Services;
-using ApplicationCore;
 using ApplicationCore.Entities;
 using Microsoft.AspNetCore.Mvc;
 
